@@ -2,6 +2,19 @@
 <br>
 <Br>
 
+I wanted to make a second version of my macropad because I was confident, that with my improved skills, I could cook up something better. I spent a long time creating this, and I'm really proud of what I made. I just started by brainstorming what I wanted in my hackpad, and I searched up cool features to add, eventually ending with me designing a macropad and case with these items:
+- Joystick
+- 2 sliders
+- 2 oleds
+- buzzer
+- Haptics
+- rotary encoder
+- cool cad case
+- 12 switches
+- Trackball
+- hand gesture sensor
+- bluetooth
+
 
 <img width="876" height="587" alt="Screenshot 2026-04-26 at 5 35 26 pm" src="https://github.com/user-attachments/assets/5c756e5c-a041-40f2-bf19-5c25a90750a9" />
 <BR>
